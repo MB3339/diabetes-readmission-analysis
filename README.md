@@ -1,30 +1,30 @@
-## GitHub README.md Template
+## GitHub README.md 
 
 ```markdown
 # Hospital Readmission Analysis for Diabetic Patients
 
-## 📊 Project Overview
+##  Project Overview
 Exploratory data analysis of 101,766 hospital encounters to identify drivers of 30-day readmissions in diabetic patients.
 
 **Key Finding:** 35% readmission rate exceeds national benchmark by 75%, with care transition failures (not clinical complexity) as primary driver.
 
-## 🎯 Business Impact
+##  Business Impact
 - **$6.7M** annual readmission cost burden identified
 - **Medicare penalty risk** quantified at 75% above threshold
 - **Targeted intervention** recommended with $2M+ savings potential
 
-## 📁 Dataset
+##  Dataset
 - **Source:** [UCI Machine Learning Repository - Diabetes 130-US Hospitals]
 - **Size:** 101,766 encounters, 71,518 unique patients
 - **Time Period:** 1999-2008
 - **Features:** 50 variables (demographics, clinical, medications)
 
-## 🔧 Technologies
+##  Technologies
 - **Python 3.x**
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, SciPy
 - **Tools:** Jupyter Notebook, VS Code
 
-## 📈 Key Findings
+##  Key Findings
 
 ### 1. Readmission Crisis
 - 35% of patients readmitted >30 days post-discharge
@@ -41,12 +41,12 @@ Exploratory data analysis of 101,766 hospital encounters to identify drivers of 
 - Longer initial stays don't reduce readmission risk
 - Care transitions, not clinical intensity, drive readmissions
 
-## 🎯 Recommendations
+##  Recommendations
 1. **[HIGH]** Implement 30-day post-discharge follow-up for 70+ patients
 2. **[MEDIUM]** Audit geriatric discharge planning processes
 3. **[LOW]** Standardize medication-lab testing protocols
 
-## 📊 Methodology
+##  Methodology
 
 ### Data Cleaning
 - Replaced '?' missing value markers with NA
@@ -64,7 +64,7 @@ Exploratory data analysis of 101,766 hospital encounters to identify drivers of 
 - Benchmark comparison (20% CMS threshold)
 - ROI estimation for proposed interventions
 
-## 📂 Repository Structure
+##  Repository Structure
 ```
 notebooks/          # Jupyter notebooks with analysis
 data/              # Data files (raw and processed)
@@ -72,7 +72,7 @@ outputs/figures/   # Saved visualizations
 requirements.txt   # Python dependencies
 ```
 
-## 🚀 How to Run
+##  How to Run
 ```bash
 # Clone repository
 git clone https://github.com/yourusername/diabetes-readmission-analysis.git
@@ -85,10 +85,10 @@ jupyter notebook notebooks/02_analysis_final.ipynb
 ```
 
 ## 📧 Contact
-**[Your Name]**
-- LinkedIn: [your-profile]
-- Email: [your-email]
-- Portfolio: [your-portfolio-site]
+**[Meet P Bhatt]**
+- LinkedIn: [https://www.linkedin.com/in/meet-p-bhatt/]
+
+
 
 ## 📄 License
 This project is for educational/portfolio purposes. Dataset from UCI ML Repository.
