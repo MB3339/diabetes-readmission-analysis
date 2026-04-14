@@ -1,0 +1,12 @@
+# Project-specific files to ignore (absolute paths you requested)
+M:\job hunt\Harrisburg University Documents\ML Project\Data_analyst_job_hunt\Data_analysis_projects\EDA-Patients_Readmissions\Data_Filtering_Feedback_EDA_Hospital.md
+M:\job hunt\Harrisburg University Documents\ML Project\Data_analyst_job_hunt\Data_analysis_projects\EDA-Patients_Readmissions\Project_Evaluation_Complete_Package_EDA.pdf
+M:\job hunt\Harrisburg University Documents\ML Project\Data_analyst_job_hunt\Data_analysis_projects\EDA-Patients_Readmissions\Project_Evaluation_Complete_Package.md
+
+# Common ignores
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv
+.vscode/
